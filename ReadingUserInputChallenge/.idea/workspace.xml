@@ -20,8 +20,12 @@
   <component name="ProjectId" id="1awBcbrzHgh7fB23kfCf5V1lIBT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -99,7 +103,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://C:/Program Files/Java/jdk-14/lib/src.zip!/java.base/java/lang/Math.java</url>
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk-14/lib/src.zip!/java.base/java/lang/Math.java</url>
           <line>693</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
