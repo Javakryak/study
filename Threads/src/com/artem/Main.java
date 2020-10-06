@@ -2,7 +2,8 @@ package com.artem;
 
 import static com.artem.ThreadColor.*;
 
-public class Main {
+public class
+Main {
 
     public static void main(String[] args) {
         System.out.println(ANSI_PURPLE + "Hello from the main thread!");
@@ -21,12 +22,18 @@ public class Main {
             @Override
             public void run() {
                 System.out.println(ANSI_RED + "Hello form anons implementation of run()");
+                try {
+                    anotherThread.join(2000);
+                    System.out.println(ANSI_RED + "anotherThread terminated or timedout, Im running again");
+                } catch (InterruptedException e){
+                    System.out.println(ANSI_RED + "I couldnt wait. I was interrupted.");
+                }
                 ;
             }
         });
 
         myRunnableThread.start();
-        anotherThread.interrupt();
+
 
 //        Thread myRunnableThread = new Thread(new MyRunnable());
 //        myRunnableThread.start();
