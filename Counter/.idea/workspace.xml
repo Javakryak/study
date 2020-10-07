@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="886f17e8-76ff-412e-9750-00adb3d8cd97" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Messages/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Threads/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../study.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Counter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Counter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/artem/Countdown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/artem/CountdownThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/artem/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Counter/com/artem/ThreadColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/artem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/artem/ThreadColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InnerClass/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClass/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Messages/src/com/artem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Messages/src/com/artem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/AnotherThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/AnotherThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/out/production/Threads/com/artem/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/src/com/artem/AnotherThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/src/com/artem/AnotherThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Threads/src/com/artem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/src/com/artem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Deadlocks/Deadlocks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SayHello/SayHello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
