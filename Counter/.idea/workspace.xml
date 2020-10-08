@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="886f17e8-76ff-412e-9750-00adb3d8cd97" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Deadlocks/Deadlocks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lambdas/Lambdas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SayHello/SayHello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="886f17e8-76ff-412e-9750-00adb3d8cd97" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
