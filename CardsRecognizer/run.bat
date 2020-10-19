@@ -1,0 +1,1 @@
+start java -jar CardsRecognizer.jar "C:\Users\ABuroff\Documents\GIT\study\CardsRecognizer\imgs"
